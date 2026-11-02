@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("[이서홍]");
+        System.out.println("이서홍");
         World.run();
+        Hello.run();
     }
 }
